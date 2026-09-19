@@ -1,5 +1,7 @@
 # AI Production and Technology Readiness Levels (TRLs) for Forecasting Food Assistance Infrastructure
 
+[![Repository Achievement](https://img.shields.io/badge/Repository-Achievement%20%7C%20Accessible%20%7C%20Findable%20%7C%20Reproducible%20%7C%20Interoperable-4B7BE5?logo=github)](https://github.com/Nkdarmel/Al-Production-and-Technology-Readiness-Levels-TRLs--Forecasting-for-Food-Assistance-Infrastructure#repository-achievement)
+
 Developing a comprehensive toolset using advanced geospatial technologies, machine learning, and decision-support methods to forecast food production and food assistance needs in humanitarian and infrastructure planning contexts.
 
 ## Project Overview
