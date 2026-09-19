@@ -1,10 +1,10 @@
 # AI Production and Technology Readiness Levels (TRLs) for Forecasting Food Assistance Infrastructure
 
-Developing a comprehensive toolset using advanced geospatial technologies, machine learning, and decision-support methods to forecast food production and food assistance needs in humanitarian and infrastructure settings. This project aligns technical development with Technology Readiness Levels (TRLs), from early concept validation to operational deployment.
+Developing a comprehensive toolset using advanced geospatial technologies, machine learning, and decision-support methods to forecast food production and food assistance needs in humanitarian and infrastructure planning contexts.
 
 ## Project Overview
 
-Food systems in vulnerable regions are increasingly affected by climate variability, infrastructure constraints, market instability, and environmental degradation. These pressures can reduce agricultural productivity and disrupt food availability, particularly in regions dependent on food assistance programs.
+Food systems in vulnerable regions are increasingly affected by climate variability, infrastructure constraints, market instability, and environmental degradation. These pressures can reduce agricultural productivity, increase food insecurity, and threaten the effectiveness of assistance programs.
 
 This project focuses on designing and developing an AI-enabled forecasting toolkit that integrates:
 - geospatial and remote sensing data
@@ -157,7 +157,7 @@ This project may integrate data from:
 
 ## Development Status
 
-This repository is currently positioned as a concept and early technical prototype foundation. It includes project documentation and example implementation concepts, and is intended to evolve into a reproducible forecasting system.
+This repository is currently positioned as a concept and early technical prototype foundation. It includes project documentation and example implementation concepts, and is intended to evolve into a more complete and operational forecasting platform.
 
 Current development state:
 - concept definition complete
@@ -165,34 +165,34 @@ Current development state:
 - initial modeling examples documented
 - prototype architecture being developed
 
-## Project Achievements
+## Repository Achievement
 
-This project has been designed to deliver a transparent and technically credible framework for forecasting food production and food assistance needs in vulnerable settings. The achievements below reflect the project’s effort to be accessible, findable, reproducible, and interoperable.
+This repository is designed to create a technically credible, operationally relevant, and transparent foundation for forecasting food production and food assistance needs in vulnerable regions. Its achievement is grounded in four core qualities that strengthen the value of the project for researchers, practitioners, and humanitarian decision-makers.
 
 ### Accessible
-- The project is documented in a clear and structured way to make the purpose, workflow, and methodology understandable to researchers, practitioners, and humanitarian stakeholders.
-- The repository is built around open and familiar tools such as Python, making the project easier to explore and adapt.
-- The use of a public GitHub repository and open documentation supports broader access to the project’s ideas and materials.
+- The project is documented in a clear and structured way so that its purpose, workflow, and methodology are understandable to researchers, practitioners, and humanitarian stakeholders.
+- The repository uses Python and familiar data-science tooling, making the project approachable to a broad technical audience.
+- Public GitHub hosting and open documentation improve access to project ideas, methods, and code artifacts.
 
 ### Findable
-- The repository is organized into logical components for data processing, modeling, visualization, and documentation, making project elements easy to locate.
-- The project structure and naming conventions improve discoverability for users seeking technical components or methodological references.
-- Project materials are centralized in one repository, supporting traceability and easier sharing across communities in food systems, geospatial analysis, and humanitarian planning.
+- The repository is organized into logical components for data processing, modeling, visualization, and documentation, making it easier to locate relevant materials.
+- Standardized naming and directory structure improve discoverability for users seeking technical components or methodological references.
+- Centralized project materials support traceability and easier sharing across food systems, geospatial analysis, and humanitarian planning communities.
 
 ### Reproducible
-- The project is designed around a modular workflow that supports repeatable data processing and analysis.
-- Documentation and a structured repository layout help researchers reproduce the project workflow using similar datasets and environments.
-- The project emphasizes consistent methods and transparent documentation to improve scientific reproducibility.
+- The project follows a modular workflow that supports repeatable data processing and analysis.
+- Documentation and a structured repository layout help researchers reproduce the workflow using similar datasets and environments.
+- The emphasis on consistent methods and transparent documentation supports scientific reproducibility.
 
 ### Interoperable
-- The project integrates multiple data sources, including climate, geospatial, agricultural, and production-related indicators.
-- The design supports interoperability across domains by combining AI, remote sensing, and food systems analysis.
-- The modular structure allows future integration with dashboards, decision-support platforms, and additional datasets without redesigning the system from scratch.
+- The project integrates multiple data domains, including climate, geospatial, agricultural, and production-related indicators.
+- The systems design supports interoperability across AI, remote sensing, and food systems analysis.
+- The modular structure allows future integration with dashboards, decision-support tools, and additional datasets without redesigning the system from scratch.
 
-### Overall Achievement
+### Overall Repository Achievement
 - Developed a strong conceptual and technical foundation for AI-driven food production forecasting and food assistance planning.
 - Established a TRL-based framework that clearly positions the project from early concept validation to future operational deployment.
-- Created a prototype-ready architecture that can evolve into a reproducible and decision-support-oriented forecasting system.
+- Created a prototype-ready architecture that can evolve into a reproducible and decision-support-oriented forecasting platform.
 - Positioned the project as a credible early-stage technical contribution to food security, resilience, and humanitarian infrastructure planning.
 
 ## Contribution
@@ -218,4 +218,4 @@ This project is licensed under the GNU General Public License v3.0.
 
 ## Summary
 
-This project represents an early-stage AI-driven forecasting framework for food production and food assistance infrastructure planning. It lays the groundwork for a robust analytical system that can evolve from concept to operational decision support through structured technical development and TRL-based validation.
+This project represents an early-stage AI-driven forecasting framework for food production and food assistance infrastructure planning. It lays the groundwork for a robust analytical system that can support evidence-based humanitarian interventions, infrastructure planning, and resilient food-security strategies.
