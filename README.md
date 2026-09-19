@@ -165,46 +165,35 @@ Current development state:
 - initial modeling examples documented
 - prototype architecture being developed
 
-## Roadmap
+## Project Achievements
 
-### Phase 1: Foundation
-- Define project scope and architecture
-- Establish data acquisition strategy
-- Build preprocessing workflows
+This project has been designed to deliver a transparent and technically credible framework for forecasting food production and food assistance needs in vulnerable settings. The achievements below reflect the project’s effort to be accessible, findable, reproducible, and interoperable.
 
-### Phase 2: Prototype Modeling
-- Prepare clean datasets
-- Train baseline models
-- Evaluate forecasting performance
+### Accessible
+- The project is documented in a clear and structured way to make the purpose, workflow, and methodology understandable to researchers, practitioners, and humanitarian stakeholders.
+- The repository is built around open and familiar tools such as Python, making the project easier to explore and adapt.
+- The use of a public GitHub repository and open documentation supports broader access to the project’s ideas and materials.
 
-### Phase 3: Geospatial Decision Support
-- Integrate spatial layers and mapping
-- Build visual analytics outputs
-- Compare predictions across regions
+### Findable
+- The repository is organized into logical components for data processing, modeling, visualization, and documentation, making project elements easy to locate.
+- The project structure and naming conventions improve discoverability for users seeking technical components or methodological references.
+- Project materials are centralized in one repository, supporting traceability and easier sharing across communities in food systems, geospatial analysis, and humanitarian planning.
 
-### Phase 4: Operational Prototype
-- Package implementation for repeatable deployment
-- Add testing and CI/CD support
-- Improve transparency and reproducibility
+### Reproducible
+- The project is designed around a modular workflow that supports repeatable data processing and analysis.
+- Documentation and a structured repository layout help researchers reproduce the project workflow using similar datasets and environments.
+- The project emphasizes consistent methods and transparent documentation to improve scientific reproducibility.
 
-### Phase 5: Pilot Deployment
-- Validate in a relevant real-world environment
-- Demonstrate utility for food assistance planning and infrastructure decisions
+### Interoperable
+- The project integrates multiple data sources, including climate, geospatial, agricultural, and production-related indicators.
+- The design supports interoperability across domains by combining AI, remote sensing, and food systems analysis.
+- The modular structure allows future integration with dashboards, decision-support platforms, and additional datasets without redesigning the system from scratch.
 
-## Achievement Summary
-
-This project has achieved a strong conceptual and technical foundation for AI-driven food production forecasting and food assistance infrastructure planning. The repository established the core vision, methodology, and early prototype architecture for integrating geospatial, environmental, and agricultural data with machine learning-based forecasting.
-
-Key achievements to date include:
-- definition of the project problem and relevance to food assistance and humanitarian infrastructure
-- articulation of the research and technical scope across TRLs 3–7
-- development of a structured project concept combining geospatial analysis, predictive modeling, and visualization
-- documentation of example machine learning workflows for data processing and forecasting
-- design of a framework for future data integration, model validation, and decision-support outputs
-
-While the repository is still in a foundational stage rather than a fully deployed operational system, it demonstrates meaningful early progress toward a scalable forecasting solution. The next major milestone is to convert this concept into a reproducible working prototype with clean data pipelines, validated baseline models, and operationally useful visual outputs.
-
-This project is therefore best positioned as an early-stage technical prototype and a credible foundation for advancing toward a validated, decision-support forecasting system for food assistance planning.
+### Overall Achievement
+- Developed a strong conceptual and technical foundation for AI-driven food production forecasting and food assistance planning.
+- Established a TRL-based framework that clearly positions the project from early concept validation to future operational deployment.
+- Created a prototype-ready architecture that can evolve into a reproducible and decision-support-oriented forecasting system.
+- Positioned the project as a credible early-stage technical contribution to food security, resilience, and humanitarian infrastructure planning.
 
 ## Contribution
 
