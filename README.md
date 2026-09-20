@@ -16,13 +16,6 @@ The project is inspired by FAIR research practices and focuses on **feasibility,
 
 
 
-# Featuring
-
--feasibility
--Accessibility
--Interoperability
--Reproducibility
-
 Developing a comprehensive toolset using advanced geospatial technologies, machine learning, and decision-support methods to forecast food production and food assistance needs in humanitarian and infrastructure planning contexts.
 
 ## Project Overview
@@ -37,6 +30,14 @@ This project focuses on designing and developing an AI-enabled forecasting toolk
 - visualization and decision-support outputs for food assistance planning
 
 The goal is to support humanitarian organizations, public agencies, and infrastructure planners with timely, interpretable forecasts of food production and food-system risk.
+
+
+##  Featuring
+
+-feasibility
+-Accessibility
+-Interoperability
+-Reproducibility
 
 ## Objectives
 
