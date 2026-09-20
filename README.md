@@ -16,7 +16,7 @@ The project is inspired by FAIR research practices and focuses on **feasibility,
 
 
 
-## Featuring
+# Featuring
 
 -feasibility
 -Accessibility
