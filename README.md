@@ -1,6 +1,25 @@
 # AI Production and Technology Readiness Levels (TRLs) for Forecasting Food Assistance Infrastructure
 
 [![Repository Achievement](https://img.shields.io/badge/Repository-Achievement%20%7C%20Accessible%20%7C%20Findable%20%7C%20Reproducible%20%7C%20Interoperable-4B7BE5?logo=github)](https://github.com/Nkdarmel/Al-Production-and-Technology-Readiness-Levels-TRLs--Forecasting-for-Food-Assistance-Infrastructure#repository-achievement)
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p
+
+## Featuring
+
+-feasibility
+-Accessibility
+-Interoperability
+-Reproducibility
 
 Developing a comprehensive toolset using advanced geospatial technologies, machine learning, and decision-support methods to forecast food production and food assistance needs in humanitarian and infrastructure planning contexts.
 
